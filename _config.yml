@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Maitreyi Ashok"
-  avatar           : "images/MaitreyiAshok_Photo.jpg"
+  avatar           : "MaitreyiAshok_Photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "India"
   employer         :
